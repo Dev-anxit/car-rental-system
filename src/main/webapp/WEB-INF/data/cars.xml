@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+    <car>
+        <id>CAR-101</id>
+        <brand>Mercedes-Benz</brand>
+        <model>S-Class Maybach S580</model>
+        <category>Luxury</category>
+        <year>2024</year>
+        <pricePerDay>280.0</pricePerDay>
+        <seats>5</seats>
+        <fuelType>Petrol</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>The pinnacle of automotive luxury with executive rear seating, Burmester 4D surround sound, and silky V8 twin-turbo performance.</description>
+        <features>Executive Seating, MBUX Infotainment, Burmester 4D Sound, Soft-Close Doors, Heated Massage Seats</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-102</id>
+        <brand>BMW</brand>
+        <model>M4 Competition Coupe</model>
+        <category>Sports</category>
+        <year>2024</year>
+        <pricePerDay>220.0</pricePerDay>
+        <seats>4</seats>
+        <fuelType>Petrol</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>503 horsepower twin-turbo inline-6 engineered for motorsport agility and aggressive track-ready styling.</description>
+        <features>M Carbon Bucket Seats, Carbon Ceramic Brakes, Head-Up Display, Adaptive M Suspension, Harman Kardon Sound</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-103</id>
+        <brand>Audi</brand>
+        <model>RS6 Avant Performance</model>
+        <category>Sports</category>
+        <year>2024</year>
+        <pricePerDay>240.0</pricePerDay>
+        <seats>5</seats>
+        <fuelType>Petrol</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>The super-wagon with an explosive 4.0L twin-turbo V8, quattro all-wheel drive, and generous family cargo space.</description>
+        <features>Quattro All-Wheel Drive, Dynamic Ride Control, Panoramic Sunroof, Bang &amp; Olufsen 3D Sound, Virtual Cockpit</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-104</id>
+        <brand>Porsche</brand>
+        <model>911 Carrera GTS</model>
+        <category>Sports</category>
+        <year>2024</year>
+        <pricePerDay>320.0</pricePerDay>
+        <seats>2</seats>
+        <fuelType>Petrol</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>Iconic rear-engine balance, twin-turbo boxer engine, and unmatched steering feedback for an exhilarating journey.</description>
+        <features>Sport Chrono Package, PASM Sport Suspension, PSE Sport Exhaust, Apple CarPlay, Alcantara Interior</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-105</id>
+        <brand>Tesla</brand>
+        <model>Model S Plaid</model>
+        <category>Electric</category>
+        <year>2024</year>
+        <pricePerDay>195.0</pricePerDay>
+        <seats>5</seats>
+        <fuelType>Electric</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>Tri-motor all-wheel drive generating 1,020 HP with 0-60 mph in 1.99s, premium yoke steering, and cutting-edge Autopilot.</description>
+        <features>Tri-Motor AWD, Full Self-Driving Capability, 17-inch Cinematic Display, Gaming Computer, Glass Roof</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-106</id>
+        <brand>Land Rover</brand>
+        <model>Range Rover Autobiography</model>
+        <category>SUV</category>
+        <year>2024</year>
+        <pricePerDay>260.0</pricePerDay>
+        <seats>7</seats>
+        <fuelType>Diesel</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>Supreme off-road mastery blended with bespoke British craftsmanship, floating electronic air suspension, and whisper-quiet cabin.</description>
+        <features>Terrain Response 2, Meridian Signature Audio, 360-degree 3D Surround Camera, All-Wheel Steering, Refrigerator Compartment</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-107</id>
+        <brand>Mercedes-Benz</brand>
+        <model>G-Class AMG G63</model>
+        <category>SUV</category>
+        <year>2024</year>
+        <pricePerDay>350.0</pricePerDay>
+        <seats>5</seats>
+        <fuelType>Petrol</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1520031441872-265e4ff70366?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>The legendary G-Wagon featuring a handcrafted 577-hp biturbo V8, triple locking differentials, and unmistakable road presence.</description>
+        <features>AMG Performance Exhaust, Nappa Leather Interior, Triple Locking Differentials, Burmester Sound, 22-inch Forged Wheels</features>
+        <status>AVAILABLE</status>
+    </car>
+    <car>
+        <id>CAR-108</id>
+        <brand>BMW</brand>
+        <model>5 Series 530i M Sport</model>
+        <category>Sedan</category>
+        <year>2024</year>
+        <pricePerDay>140.0</pricePerDay>
+        <seats>5</seats>
+        <fuelType>Petrol</fuelType>
+        <transmission>Automatic</transmission>
+        <imageUrl>https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imageUrl>
+        <description>Elegant executive saloon offering remarkable fuel efficiency, silky smooth cruising, and intuitive voice commands.</description>
+        <features>Live Cockpit Professional, Driving Assistant Pro, Ambient Lighting, Wireless Charging, Parking Assistant</features>
+        <status>AVAILABLE</status>
+    </car>
+</cars>
+

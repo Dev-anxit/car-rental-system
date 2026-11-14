@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <id>USR-ADMIN-1</id>
+        <name>System Administrator</name>
+        <email>admin@carrental.com</email>
+        <password>admin123</password>
+        <phone>+1 (555) 019-2834</phone>
+        <address>Fleet HQ, 100 Auto Boulevard, Suite 500, New York, NY</address>
+        <role>ADMIN</role>
+        <createdAt>2024-01-01 09:00:00</createdAt>
+    </user>
+    <user>
+        <id>USR-1001</id>
+        <name>John Anderson</name>
+        <email>john@example.com</email>
+        <password>customer123</password>
+        <phone>+1 (555) 782-9901</phone>
+        <address>452 Lexington Ave, Apt 4B, New York, NY</address>
+        <role>CUSTOMER</role>
+        <createdAt>2024-02-15 14:20:00</createdAt>
+    </user>
+    <user>
+        <id>USR-1002</id>
+        <name>Sarah Connor</name>
+        <email>sarah@example.com</email>
+        <password>customer123</password>
+        <phone>+1 (555) 438-1122</phone>
+        <address>784 Sunset Blvd, Los Angeles, CA</address>
+        <role>CUSTOMER</role>
+        <createdAt>2024-03-10 11:45:00</createdAt>
+    </user>
+</users>
+

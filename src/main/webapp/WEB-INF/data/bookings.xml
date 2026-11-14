@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookings>
+    <booking>
+        <id>BK-1001</id>
+        <bookingReference>CR-2024-8841</bookingReference>
+        <userId>USR-1001</userId>
+        <carId>CAR-101</carId>
+        <userFullName>John Anderson</userFullName>
+        <userEmail>john@example.com</userEmail>
+        <carTitle>Mercedes-Benz S-Class Maybach S580 (2024)</carTitle>
+        <carImageUrl>https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</carImageUrl>
+        <pickupDate>2024-12-01</pickupDate>
+        <returnDate>2024-12-05</returnDate>
+        <pickupLocation>JFK International Airport (JFK)</pickupLocation>
+        <returnLocation>Manhattan Downtown Flagship (5th Ave)</returnLocation>
+        <totalDays>4</totalDays>
+        <pricePerDay>280.0</pricePerDay>
+        <totalPrice>1120.0</totalPrice>
+        <status>APPROVED</status>
+        <bookingDate>2024-11-20 10:15:30</bookingDate>
+        <specialRequests>Child safety seat requested in rear right seat.</specialRequests>
+    </booking>
+    <booking>
+        <id>BK-1002</id>
+        <bookingReference>CR-2024-9124</bookingReference>
+        <userId>USR-1002</userId>
+        <carId>CAR-104</carId>
+        <userFullName>Sarah Connor</userFullName>
+        <userEmail>sarah@example.com</userEmail>
+        <carTitle>Porsche 911 Carrera GTS (2024)</carTitle>
+        <carImageUrl>https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</carImageUrl>
+        <pickupDate>2024-12-10</pickupDate>
+        <returnDate>2024-12-12</returnDate>
+        <pickupLocation>Manhattan Downtown Flagship (5th Ave)</pickupLocation>
+        <returnLocation>Same as Pickup Location</returnLocation>
+        <totalDays>2</totalDays>
+        <pricePerDay>320.0</pricePerDay>
+        <totalPrice>640.0</totalPrice>
+        <status>PENDING</status>
+        <bookingDate>2024-11-22 14:05:10</bookingDate>
+        <specialRequests>Airport transfer coordination requested.</specialRequests>
+    </booking>
+</bookings>
+
