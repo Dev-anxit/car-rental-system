@@ -6,3 +6,4 @@ services:
     region: oregon
     dockerfilePath: ./Dockerfile
     autoDeploy: true
+

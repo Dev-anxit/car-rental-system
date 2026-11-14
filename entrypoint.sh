@@ -8,3 +8,4 @@ if [ -n "$PORT" ]; then
 fi
 
 exec catalina.sh run
+
